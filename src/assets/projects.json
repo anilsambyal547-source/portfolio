@@ -1,0 +1,21 @@
+[
+  {"category": "Machine Learning & AI", "items": [
+    {"name": "Rural Care", "url": "rural-care.html", "image": "/assets/img/decks.webp", "directURL": false, "desc": "Healthcare accessibility platform designed for rural clinics, triage support, and community healthcare workers (Hackathon 2026)."},
+    {"name": "Adaptive Notes", "url": "adaptive-notes.html", "image": "/assets/img/mlearn.webp", "directURL": false, "desc": "An intelligent AI note summarizer that adapts to conceptual complexity and generates structured synthesis."},
+    {"name": "CV AI", "url": "cv-ai.html", "image": "/assets/img/dynweb.webp", "directURL": false, "desc": "Document intelligence and automated CV analysis platform built with a dedicated Python backend and TypeScript frontend."},
+    {"name": "Tick", "url": "tick.html", "image": "/assets/img/quick.webp", "directURL": false, "desc": "Intelligent task sequencing and deterministic productivity engine for developers."}
+  ]},
+  {"category": "Research & Systems", "items": [
+    {"name": "AI Reliability", "url": "ai-reliability.html", "image": "/assets/img/tm2024.jpg", "directURL": false, "desc": "Studies on making AI systems dependable: ground-truth verification, hallucination guardrails, and deterministic testing."},
+    {"name": "RGGEC Coursework", "url": "rggec-coursework.html", "image": "/assets/img/8bitjs.png", "directURL": false, "desc": "Academic foundations in algorithms, mathematical statistics, and machine learning at RGGEC (2025-29 batch)."}
+  ]},
+  {"category": "Code & Repositories", "items": [
+    {"name": "GitHub Repositories", "url": "https://github.com/anilsambyal547-source?tab=repositories", "image": "/assets/img/morisinc-net.png", "directURL": true, "desc": "Full archive of public repositories, open source contributions, and ongoing builds."}
+  ]},
+  {"category": "HIDDEN", "items": [
+    {"name": "about", "url": "about.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "about"},
+    {"name": "cv", "url": "cv.html", "image": "", "directURL": false, "desc": "cv"},
+    {"name": "publications", "url": "publications.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "writeups"},
+    {"name": "writeups", "url": "writeups.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "writeups"}
+  ]}
+]

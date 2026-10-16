@@ -1,0 +1,44 @@
+{
+  "Rural Care": {
+    "fr": "Plateforme d'accessibilité aux soins de santé conçue pour les cliniques rurales, le tri médical et les agents de santé communautaires.",
+    "de": "Plattform für den Zugang zu medizinischer Versorgung, entwickelt für ländliche Kliniken, Triage-Unterstützung und Gesundheitshelfer.",
+    "ru": "Платформа для обеспечения доступа к здравоохранению в сельских районах, поддержка сортировки пациентов и общественных медработников.",
+    "jp": "農村クリニック、トリアージ支援、地域医療従事者向けに設計されたヘルスケアアクセシビリティプラットフォーム。"
+  },
+  "Adaptive Notes": {
+    "fr": "Outil de résumé de notes intelligent qui s'adapte à la densité conceptuelle et génère des synthèses structurées.",
+    "de": "Intelligente KI-basierte Notizenzusammenfassung, die sich an die konzeptuelle Komplexität anpasst und strukturierte Synthesen generiert.",
+    "ru": "Интеллектуальный ИИ-конспектировщик, адаптирующийся к концептуальной сложности и создающий структурированные синтезы.",
+    "jp": "概念的複雑さに適応し、構造化された要約を生成するインテリジェントなAIノート要約エンジン。"
+  },
+  "CV AI": {
+    "fr": "Plateforme d'intelligence documentaire et d'analyse automatisée de CV avec backend Python et frontend TypeScript.",
+    "de": "Vollständige Dokumentenintelligenz- und CV-Analyseplattform mit Python-Backend und TypeScript-Frontend.",
+    "ru": "Полноценная платформа для интеллектуального анализа документов и резюме с Python-бэкендом и TypeScript-фронтендом.",
+    "jp": "PythonバックエンドとTypeScriptフロントエンドを備えた文書インテリジェンスおよび自動CV解析プラットフォーム。"
+  },
+  "Tick": {
+    "fr": "Outil de séquençage déterministe des tâches pour développeurs, basé sur un graphe acyclique orienté (DAG).",
+    "de": "Deterministisches Aufgaben-Sequenzierungswerkzeug für Entwickler auf Basis eines gerichteten azyklischen Graphen (DAG).",
+    "ru": "Детерминированный инструмент упорядочивания задач для разработчиков на основе направленного ациклического графа (DAG).",
+    "jp": "有向非巡回グラフ（DAG）を使用した開発者向け決定論的タスクシーケンサー。"
+  },
+  "AI Reliability": {
+    "fr": "Recherche sur les systèmes d'IA fiables : garde-fous contre les hallucinations, pipelines RAG avec attribution vérifiée, et tests adversariaux.",
+    "de": "Forschung zur KI-Zuverlässigkeit: Absicherungen gegen Halluzinationen, RAG-Pipelines mit Quellennachweis, adversarielle Benchmarks.",
+    "ru": "Исследование надёжности ИИ: защита от галлюцинаций, RAG-конвейеры с проверкой источников, состязательное тестирование.",
+    "jp": "AI信頼性研究：幻覚防止ガードレール、ソース検証付きRAGパイプライン、敵対的ベンチマーク。"
+  },
+  "RGGEC Coursework": {
+    "fr": "Fondations académiques en algorithmes, statistiques mathématiques et apprentissage automatique au RGGEC (2025–2029).",
+    "de": "Akademische Grundlagen in Algorithmen, mathematischer Statistik und maschinellem Lernen am RGGEC (2025–2029).",
+    "ru": "Академические основы алгоритмов, математической статистики и машинного обучения в RGGEC (2025–2029).",
+    "jp": "RGGEC（2025〜2029年）でのアルゴリズム、数理統計、機械学習の学術基礎。"
+  },
+  "GitHub Repositories": {
+    "fr": "Archive complète des dépôts publics, contributions open-source et projets en cours.",
+    "de": "Vollständiges Archiv öffentlicher Repositories, Open-Source-Beiträge und laufende Projekte.",
+    "ru": "Полный архив публичных репозиториев, вкладов в открытый код и текущих разработок.",
+    "jp": "公開リポジトリ、オープンソース貢献、進行中のプロジェクトの完全アーカイブ。"
+  }
+}

@@ -1,0 +1,54 @@
+<div>
+    <h1>Overview</h1>
+    <p>A matrix clock built on a Raspberry Pi Zero, similar in spirit to the LaMetric Time.<br>Work in progress.</p>
+    <p>You can find the source code and build files [a href="https://github.com/adrianvla/clock"]here[/a].</p>
+    <h1>Gallery</h1>
+    <span class="brd"></span>
+    [img src="/assets/img/clock-IMG_1060.png"][/img]
+    <span class="brd"></span>
+    [img src="/assets/img/clock-IMG_1061.png"][/img]
+    <span class="brd"></span>
+    [img src="/assets/img/clock-IMG_1062.png"][/img]
+    <h1>Features</h1>
+    <p>Features include movable widgets, multiple screen environments, and animations.<br>
+    A control panel allows you to edit nearly everything, including widget positions and widget code.</p>
+    <p>Clock drift on the Raspberry Pi Zero is mitigated by periodic synchronization with an online time server.</p>
+    <h2>Widgets</h2>
+    <p>Widgets that are provided out-of-the-box:</p>
+    <ul>
+        <li>Days of Week (with bars that look like this if you're on a Saturday: ░░ ░░ ░░ ░░ ░░ ▓▓ ░░)</li>
+        <li>Calendar (indicates the current date with a nice calendar-like background)</li>
+        <li>Digital Time: 3x5 font, HH : MM (: SS, configurable)</li>
+        <li>Big Digital Time: 5x5 font, HH : MM</li>
+        <li>Rss Feed: Scrolls news headlines on the display, 8x8 font, supports Latin, Cyrillic, Japanese Kana&Kanji</li>
+        <li>Temperature: temperature°C</li>
+        <li>Weather: A nice 8x8 widget with animated icons for every weather type, with even a particle system for rain</li>
+    </ul>
+    <h2>Screens</h2>
+    <p>Screens are analogous to desktops on Windows or macOS. Widgets are placed on screens, and based on time or events (for example, receiving an RSS update), the screens cycle with smooth animations.</p>
+    <h2>Control panel</h2>
+    <p>With the control panel, you can:</p>
+    <ul>
+        <li>Change the password</li>
+        <li>View what's on the display</li>
+        <li>Change the brightness</li>
+        <li>Restart</li>
+        <li>Edit Widgets / Create new ones using JavaScript right in your browser (using Monaco Editor)</li>
+        <li>Edit Screens / Create new ones by dragging and dropping the widgets on a virtual screen</li>
+    </ul>
+    [img src="/assets/img/clock-c1.png"][/img]
+    [img src="/assets/img/clock-c2.png"][/img]
+    <h1>How to Use</h1>
+    <p>Obtain an API key from weatherapi.com.<br>
+    Paste it into <code>/code/src/widgets/weather/weather.js</code> (work in progress; will be moved to the control panel).</p>
+    <p>Configure your RSS feeds in <code>/code/src/widgets/rssFeed/rss.js</code> (work in progress; will also be moved to the control panel).</p>
+    <p>Create a systemctl service to autorun</p>
+    <pre style="color:#fff">#!/bin/bash
+cd &lt;the directory containing the contents of the code folder&gt;
+sudo node src/main.js
+</pre>
+    <p>and name it <code>script-startup.service</code></p>
+    <p>And you're good to go.</p>
+    <p>To connect the WS281x display, use GPIO 18, or change the pin in <code>/code/src/utils/driver.js</code>.</p>
+    <p>License: MIT</p>
+</div>
