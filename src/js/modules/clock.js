@@ -27,7 +27,8 @@ class Clock {
             jp: ['日', '月', '火', '水', '木', '金', '土'],
             de: ['So', 'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa'],
             ru: ['Вс', 'Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб'],
-            fr: ['Dim', 'Lun', 'Mar', 'Mer', 'Jeu', 'Ven', 'Sam']
+            fr: ['Dim', 'Lun', 'Mar', 'Mer', 'Jeu', 'Ven', 'Sam'],
+            hi: ['रवि', 'सोम', 'मंगल', 'बुध', 'गुरु', 'शुक्र', 'शनि']
         };
         return dayNames[lang] || dayNames.en;
     }
@@ -38,7 +39,8 @@ class Clock {
             jp: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
             de: ['Jan', 'Feb', 'Mar', 'Apr', 'Mai', 'Jun', 'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dez'],
             ru: ['Янв', 'Фев', 'Мар', 'Апр', 'Май', 'Июн', 'Июл', 'Авг', 'Сен', 'Окт', 'Ноя', 'Дек'],
-            fr: ['Jan', 'Fev', 'Mar', 'Avr', 'Mai', 'Jun', 'Jul', 'Aou', 'Sep', 'Oct', 'Nov', 'Dec']
+            fr: ['Jan', 'Fev', 'Mar', 'Avr', 'Mai', 'Jun', 'Jul', 'Aou', 'Sep', 'Oct', 'Nov', 'Dec'],
+            hi: ['जनवरी', 'फरवरी', 'मार्च', 'अप्रैल', 'मई', 'जून', 'जुलाई', 'अगस्त', 'सितंबर', 'अक्टूबर', 'नवंबर', 'दिसंबर']
         };
         return monthNames[lang] || monthNames.en;
     }
@@ -70,6 +72,9 @@ class Clock {
             case 'fr':
                 // French format: Day DD Mon YYYY HH:MM:SS
                 return `${dayName} ${day} ${monthName} ${year} ${hours}:${minutes}:${seconds}`;
+            case 'hi':
+                // Hindi format: Day, DD Month YYYY HH:MM:SS
+                return `${dayName}, ${day} ${monthName} ${year} ${hours}:${minutes}:${seconds}`;
             default:
                 // English format: Day Mon DD HH:MM:SS YYYY
                 return `${dayName} ${monthName} ${day} ${hours}:${minutes}:${seconds} ${year}`;

@@ -1,9 +1,10 @@
 [
   {"category": "Machine Learning & AI", "items": [
-    {"name": "Rural Care", "url": "rural-care.html", "image": "/assets/img/decks.webp", "directURL": false, "desc": "Healthcare accessibility platform designed for rural clinics, triage support, and community healthcare workers (Hackathon 2026). Source on GitHub."},
-    {"name": "Adaptive Notes", "url": "adaptive-notes.html", "image": "/assets/img/mlearn.webp", "directURL": false, "desc": "An intelligent AI note summarizer that adapts to conceptual complexity and generates structured synthesis. Live app on Streamlit."},
-    {"name": "CV AI", "url": "cv-ai.html", "image": "/assets/img/dynweb.webp", "directURL": false, "desc": "Document intelligence and automated CV analysis platform built with a dedicated Python backend and TypeScript frontend."},
-    {"name": "Tick", "url": "tick.html", "image": "/assets/img/quick.webp", "directURL": false, "desc": "Intelligent task sequencing and deterministic productivity engine for developers. Live web app on Vercel."}
+    {"name": "SafeGuard AI", "url": "safeguard-ai.html", "image": "/assets/img/safeguard-ai.jpg", "directURL": false, "desc": "Multimodal scam detection & zero-fetch URL forensics. 🏆 2nd Prize Winner at HPTU Hackathon 2026. 100% benchmark accuracy across 75 real-world attack vectors."},
+    {"name": "GraminCare", "url": "rural-care.html", "image": "/assets/img/gramincare.jpg", "directURL": false, "desc": "Offline-first smart rural telehealth ecosystem connecting ASHA workers, patients, and doctors with AI triage and digital prescriptions. Video demo available."},
+    {"name": "CV AI Platform", "url": "cv-ai.html", "image": "/assets/img/cv-ai-demo.webp", "directURL": false, "desc": "Decoupled recruitment intelligence system with Gemini Pro PDF parsing, ChromaDB semantic vector search, and live candidate pipelines. Live on Vercel."},
+    {"name": "The Daily Tasker", "url": "tick.html", "image": "/assets/img/quick.webp", "directURL": false, "desc": "AI-powered note sequencer and newspaper-themed notepad built with Next.js 14 and Gemini 2.5 Flash for DAG task priority scheduling. Live on Vercel."},
+    {"name": "Adaptive Notes", "url": "adaptive-notes.html", "image": "/assets/img/mlearn.webp", "directURL": false, "desc": "Intelligent document analysis and Q&A engine powered by Google Gemini, FAISS RAG, and OCR for dense academic and technical notes. Live on Streamlit."}
   ]},
   {"category": "Research & Systems", "items": [
     {"name": "AI Reliability", "url": "ai-reliability.html", "image": "/assets/img/tm2024.jpg", "directURL": false, "desc": "Studies on making AI systems dependable: ground-truth verification, hallucination guardrails, and deterministic testing."},
@@ -16,6 +17,10 @@
     {"name": "about", "url": "about.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "about"},
     {"name": "cv", "url": "cv.html", "image": "", "directURL": false, "desc": "cv"},
     {"name": "publications", "url": "publications.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "writeups"},
-    {"name": "writeups", "url": "writeups.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "writeups"}
+    {"name": "writeups", "url": "writeups.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "writeups"},
+    {"name": "rural_care", "url": "rural-care.html", "image": "/assets/img/gramincare.jpg", "directURL": false, "desc": "GraminCare"},
+    {"name": "Rural Care", "url": "rural-care.html", "image": "/assets/img/gramincare.jpg", "directURL": false, "desc": "Rural Care"},
+    {"name": "Tick", "url": "tick.html", "image": "/assets/img/quick.webp", "directURL": false, "desc": "Tick"},
+    {"name": "CV AI", "url": "cv-ai.html", "image": "/assets/img/cv-ai-demo.webp", "directURL": false, "desc": "CV AI"}
   ]}
 ]

@@ -939,3 +939,9 @@ iframe{
     border:1px solid var(--black);
     padding: 10px;
 }
+/* Hindi typography support */
+body.lang-hi h1, body.lang-hi h2, body.lang-hi h3, body.lang-hi h4, body.lang-hi h5, body.lang-hi h6,
+body.lang-hi .sign-c .sign span, body.lang-hi .marquee .word, body.lang-hi .s1 .projects .project,
+body.lang-hi .nav-item a, body.lang-hi p, body.lang-hi li, body.lang-hi .desc, body.lang-hi .pill span {
+    font-family: 'Noto Sans Devanagari', 'Mukta', 'Poppins', sans-serif !important;
+}

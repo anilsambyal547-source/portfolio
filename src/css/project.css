@@ -69,3 +69,16 @@ pre{
     position: relative;
     box-shadow:0 0 5px #0000004a;
 }
+
+/* Hindi project content typography */
+body.lang-hi section.content,
+body.lang-hi section.content p,
+body.lang-hi section.content li,
+body.lang-hi section.content h1,
+body.lang-hi section.content h2,
+body.lang-hi section.content h3,
+body.lang-hi section.content h4,
+body.lang-hi section.content h5,
+body.lang-hi section.content h6 {
+    font-family: 'Noto Sans Devanagari', 'Mukta', 'Poppins', sans-serif !important;
+}

@@ -1,25 +1,37 @@
 <div>
-    <h1>CV AI — Document Intelligence System</h1>
-    <p>A full-stack platform for intelligent resume parsing, skill matching, and document intelligence.</p>
+    <h1>CV AI Platform — Recruitment Intelligence System</h1>
+    <p>A full-stack AI recruitment intelligence platform transforming PDF resumes into structured, searchable talent pipelines with semantic vector search.</p>
     <p>
-        [a href="https://github.com/anilsambyal547-source/cv-ai-frontend"]Frontend Repository[/a] · [a href="https://github.com/anilsambyal547-source/cv-ai-backend"]Backend Repository[/a]
+        Live Web App: [a href="https://cv-ai-frontend-three.vercel.app"]cv-ai-frontend-three.vercel.app[/a] &nbsp;·&nbsp;
+        Frontend Code: [a href="https://github.com/anilsambyal547-source/cv-ai-frontend"]github.com/anilsambyal547-source/cv-ai-frontend[/a] &nbsp;·&nbsp;
+        Backend Code: [a href="https://github.com/anilsambyal547-source/cv-ai-backend"]github.com/anilsambyal547-source/cv-ai-backend[/a]
     </p>
     <p>
-        [btn link="https://github.com/anilsambyal547-source/cv-ai-backend"]Backend Code ↗[/btn] &nbsp;
-        [btn link="https://github.com/anilsambyal547-source/cv-ai-frontend"]Frontend Code ↗[/btn]
+        [btn link="https://cv-ai-frontend-three.vercel.app"]Launch Live Platform ↗[/btn] &nbsp;
+        [btn link="https://github.com/anilsambyal547-source/cv-ai-frontend"]Frontend Repository ↗[/btn] &nbsp;
+        [btn link="https://github.com/anilsambyal547-source/cv-ai-backend"]Backend Repository ↗[/btn]
     </p>
 
+    [img src="/assets/img/cv-ai-demo.webp"]CV AI Platform Walkthrough[/img]
+
     <h1>System Architecture</h1>
-    <p>CV AI is built as a decoupled distributed system:</p>
+    <p>CV AI is built as a high-performance decoupled distributed system:</p>
     <ul>
-        <li><strong>Backend Engine (Python):</strong> Powered by Python, asynchronous endpoints, text extraction modules, and structured NLP evaluation pipelines.</li>
-        <li><strong>Frontend Application (TypeScript):</strong> A modern interactive dashboard enabling users to inspect extracted criteria, candidate scores, and semantic highlights.</li>
+        <li><strong>Frontend Application:</strong> Built with Next.js, TypeScript, Tailwind CSS, Shadcn/UI, Framer Motion, and TanStack Query. Features drag-and-drop candidate pipelines via <code>@dnd-kit</code> and live analytics with Recharts.</li>
+        <li><strong>Backend Engine:</strong> Asynchronous FastAPI (Python 3.10+) service utilizing background workers for non-blocking resume indexing and duplicate detection via SHA-256 hashing.</li>
+        <li><strong>AI & LLM Ingestion:</strong> Google Gemini Pro via the official SDK for structured entity extraction (experience timelines, skills, credentials).</li>
+        <li><strong>Vector Storage & Semantic Search:</strong> ChromaDB with Sentence Transformers (<code>all-MiniLM-L6-v2</code>) enabling intent-based semantic search and hybrid scoring against job rubrics.</li>
+        <li><strong>Security:</strong> JWT authentication with Role-Based Access Control (Admin vs. Recruiter) and request rate limiting.</li>
     </ul>
 
     <h1>Key Capabilities</h1>
     <ul>
-        <li>Automated entity recognition for technical skills, certifications, and experience timelines.</li>
-        <li>Semantic matching against role rubrics rather than basic keyword checks.</li>
-        <li>Structured JSON output generation with validated schema constraints.</li>
+        <li><strong>Automated Extraction:</strong> Parses messy multi-column PDFs into validated, structured schema objects.</li>
+        <li><strong>Semantic Vector Search:</strong> Finds candidates by conceptual skill matches rather than rigid keyword queries.</li>
+        <li><strong>Interactive Pipeline Board:</strong> Seamless candidate stage tracking across Applied, Interview, and Hired states.</li>
     </ul>
+
+    <p style="margin-top: 2rem;">
+        [btn link="https://cv-ai-frontend-three.vercel.app"]Open Live Web App on Vercel ↗[/btn]
+    </p>
 </div>

@@ -50,7 +50,17 @@ const translationStrings = {
         "THEME":"変更",
         "PORTFOLIO": "ポートフォリオ",
         "Contents": "内容",
-        "Publications": "出版物"
+        "Publications": "出版物",
+        "SafeGuard AI": "SafeGuard AI",
+        "GraminCare": "GraminCare",
+        "Rural Care": "Rural Care",
+        "CV AI Platform": "CV AI Platform",
+        "CV AI": "CV AI",
+        "The Daily Tasker": "The Daily Tasker",
+        "Tick": "Tick",
+        "Adaptive Notes": "Adaptive Notes",
+        "AI Reliability": "AI信頼性",
+        "RGGEC Coursework": "RGGEC履修科目"
     },
     de:{
         "About": "Über Mich",
@@ -74,7 +84,17 @@ const translationStrings = {
         "THEME":"FARBE",
         "Contents": "Inhalt",
         "Publications": "Publikationen",
-        "PORTFOLIO": "PORTFOLIO"
+        "PORTFOLIO": "PORTFOLIO",
+        "SafeGuard AI": "SafeGuard AI",
+        "GraminCare": "GraminCare",
+        "Rural Care": "Rural Care",
+        "CV AI Platform": "CV AI Platform",
+        "CV AI": "CV AI",
+        "The Daily Tasker": "The Daily Tasker",
+        "Tick": "Tick",
+        "Adaptive Notes": "Adaptive Notes",
+        "AI Reliability": "KI-Zuverlässigkeit",
+        "RGGEC Coursework": "RGGEC-Studium"
     },
     ru:{
         "About": "Обо мне",
@@ -100,7 +120,17 @@ const translationStrings = {
         "THEME": "ЦВЕТ",
         "Contents": "Содержание",
         "Publications": "Публикации",
-        "PORTFOLIO": "ПОРТФОЛИО"
+        "PORTFOLIO": "ПОРТФОЛИО",
+        "SafeGuard AI": "SafeGuard AI",
+        "GraminCare": "GraminCare",
+        "Rural Care": "Rural Care",
+        "CV AI Platform": "CV AI Platform",
+        "CV AI": "CV AI",
+        "The Daily Tasker": "The Daily Tasker",
+        "Tick": "Tick",
+        "Adaptive Notes": "Adaptive Notes",
+        "AI Reliability": "Надёжность ИИ",
+        "RGGEC Coursework": "Курсы RGGEC"
     },
     fr:{
         "About": "À Propos",
@@ -124,9 +154,59 @@ const translationStrings = {
         "Contents": "Contenu",
         "Publications": "Publications",
         "CV": "CV",
-        "PORTFOLIO": "PORTFOLIO"
+        "PORTFOLIO": "PORTFOLIO",
+        "SafeGuard AI": "SafeGuard AI",
+        "GraminCare": "GraminCare",
+        "Rural Care": "Rural Care",
+        "CV AI Platform": "CV AI Platform",
+        "CV AI": "CV AI",
+        "The Daily Tasker": "The Daily Tasker",
+        "Tick": "Tick",
+        "Adaptive Notes": "Adaptive Notes",
+        "AI Reliability": "Fiabilité de l'IA",
+        "RGGEC Coursework": "Cours RGGEC"
+    },
+    hi: {
+        "About": "परिचय",
+        "Home": "होम",
+        "Lang": "भाषा",
+        "Socials": "सोशल",
+        "Anil": "अनिल",
+        "Sambyal": "साम्ब्याल",
+        "Language Selection": "भाषा चयन",
+        "LANGUAGE SELECTION": "भाषा चयन",
+        "Projects": "प्रोजेक्ट्स",
+        "PROJECTS": "प्रोजेक्ट्स",
+        "Your Experience": "अनुभव",
+        "Is Loading": "लोड हो रहा है",
+        "CV": "बायोडाटा",
+        "SCROLL DOWN": "नीचे स्क्रॉल करें →",
+        "Software": "सॉफ्टवेयर",
+        "Research": "अनुसंधान",
+        "Hardware": "हार्डवेयर",
+        "Design": "डिजाइन",
+        "Misc": "विविध",
+        "MANUFACTURE DATE": "निर्माण तिथि",
+        "CHANGE": "बदलें",
+        "THEME": "थीम",
+        "Contents": "विषय सूची",
+        "Publications": "लेख व शोध",
+        "PORTFOLIO": "पोर्टफोलियो",
+        "SafeGuard AI": "सेफगार्ड एआई",
+        "GraminCare": "ग्रामीणकेयर",
+        "Rural Care": "रूरल केयर",
+        "CV AI Platform": "सीवी एआई प्लेटफॉर्म",
+        "CV AI": "सीवी एआई",
+        "The Daily Tasker": "द डेली टास्कर",
+        "Tick": "टिक",
+        "Adaptive Notes": "अडेप्टिव नोट्स",
+        "AI Reliability": "एआई विश्वसनीयता",
+        "RGGEC Coursework": "आरजीजीईसी पाठ्यक्रम",
+        "Machine Learning & AI": "मशीन लर्निंग व एआई",
+        "Research & Systems": "शोध व सिस्टम्स",
+        "Code & Repositories": "कोड व रिपॉजिटरी"
     }
-}
+};
 
 function getTranslation(key) {
     const lang = getCurrentLanguage();
