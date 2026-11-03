@@ -1,30 +1,33 @@
 {
+  "Anil Sambyal": {
+    "en": "AI & Data Science Undergrad at RGGEC (2025–2029). Building machine learning architectures, dependable full-stack systems, and cybersecurity tools. Click to explore full bio, toolkit, and achievements."
+  },
+  "Tick": {
+    "en": "AI-powered note sequencer and newspaper-themed productivity suite built with Next.js 14 and Gemini Flash. DAG task priority scheduling. Live on Vercel ↗ (tick-zeta.vercel.app)."
+  },
+  "The Daily Tasker": {
+    "en": "AI-powered note sequencer and newspaper-themed productivity suite built with Next.js 14 and Gemini Flash. DAG task priority scheduling. Live on Vercel ↗ (tick-zeta.vercel.app)."
+  },
   "DIGIkavah": {
     "en": "Multimodal scam detection & zero-fetch URL forensics. 🏆 2nd Prize Winner at HPTU Hackathon 2026. 100% benchmark accuracy across 75 real-world attack vectors."
   },
   "SafeGuard AI": {
     "en": "Multimodal scam detection & zero-fetch URL forensics. 🏆 2nd Prize Winner at HPTU Hackathon 2026. 100% benchmark accuracy across 75 real-world attack vectors."
   },
-  "GraminCare": {
-    "en": "Offline-first smart rural telehealth ecosystem connecting ASHA workers, patients, and doctors with AI triage and digital prescriptions. Video demo available."
-  },
   "Rural Care": {
-    "en": "Offline-first smart rural telehealth ecosystem connecting ASHA workers, patients, and doctors with AI triage and digital prescriptions. Video demo available."
+    "en": "Offline-first smart rural telehealth ecosystem connecting ASHA workers, patients, and doctors with AI triage and digital prescriptions. Source on GitHub."
   },
-  "CV AI Platform": {
-    "en": "Decoupled recruitment intelligence system with Gemini Pro PDF parsing, ChromaDB semantic vector search, and live candidate pipelines. Live on Vercel."
-  },
-  "CV AI": {
-    "en": "Decoupled recruitment intelligence system with Gemini Pro PDF parsing, ChromaDB semantic vector search, and live candidate pipelines. Live on Vercel."
-  },
-  "The Daily Tasker": {
-    "en": "AI-powered note sequencer and newspaper-themed notepad built with Next.js 14 and Gemini 2.5 Flash for DAG task priority scheduling. Live on Vercel."
-  },
-  "Tick": {
-    "en": "AI-powered note sequencer and newspaper-themed notepad built with Next.js 14 and Gemini 2.5 Flash for DAG task priority scheduling. Live on Vercel."
+  "GraminCare": {
+    "en": "Offline-first smart rural telehealth ecosystem connecting ASHA workers, patients, and doctors with AI triage and digital prescriptions. Source on GitHub."
   },
   "Adaptive Notes": {
-    "en": "Intelligent document analysis and Q&A engine powered by Google Gemini, FAISS RAG, and OCR for dense academic and technical notes. Live on Streamlit."
+    "en": "Intelligent document analysis and Q&A engine powered by Google Gemini, FAISS RAG, and OCR for dense academic and technical notes. Live on Streamlit ↗."
+  },
+  "CV AI": {
+    "en": "Decoupled recruitment intelligence system with Gemini Pro PDF parsing, ChromaDB semantic vector search, and live candidate pipelines. Live on Vercel ↗."
+  },
+  "CV AI Platform": {
+    "en": "Decoupled recruitment intelligence system with Gemini Pro PDF parsing, ChromaDB semantic vector search, and live candidate pipelines. Live on Vercel ↗."
   },
   "AI Reliability": {
     "en": "Studies on making AI systems dependable: ground-truth verification, hallucination guardrails, and deterministic testing."
@@ -33,6 +36,6 @@
     "en": "Academic foundations in algorithms, mathematical statistics, and machine learning at RGGEC (2025-29 batch)."
   },
   "GitHub Repositories": {
-    "en": "Full archive of public repositories, open source contributions, and ongoing builds."
+    "en": "Full archive of public repositories, open source contributions, and ongoing builds on GitHub."
   }
 }

@@ -1,30 +1,43 @@
 [
+  {"category": "Profile & Overview", "items": [
+    {"name": "Anil Sambyal", "url": "about.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "AI & Data Science Undergrad at RGGEC (2025–2029). Building machine learning architectures, dependable full-stack systems, and cybersecurity tools. Click to explore full bio, toolkit, and achievements."}
+  ]},
   {"category": "Machine Learning & AI", "items": [
+    {"name": "Tick", "url": "tick.html", "image": "/assets/img/quick.webp", "directURL": false, "desc": "AI-powered note sequencer and newspaper-themed productivity suite built with Next.js 14 and Gemini Flash. DAG task priority scheduling. Live on Vercel ↗ (tick-zeta.vercel.app)."},
     {"name": "DIGIkavah", "url": "digikavah.html", "image": "/assets/img/safeguard-ai.jpg", "directURL": false, "desc": "Multimodal scam detection & zero-fetch URL forensics. 🏆 2nd Prize Winner at HPTU Hackathon 2026. 100% benchmark accuracy across 75 real-world attack vectors."},
-    {"name": "GraminCare", "url": "rural-care.html", "image": "/assets/img/gramincare.jpg", "directURL": false, "desc": "Offline-first smart rural telehealth ecosystem connecting ASHA workers, patients, and doctors with AI triage and digital prescriptions. Video demo available."},
-    {"name": "CV AI Platform", "url": "cv-ai.html", "image": "/assets/img/cv-ai-demo.webp", "directURL": false, "desc": "Decoupled recruitment intelligence system with Gemini Pro PDF parsing, ChromaDB semantic vector search, and live candidate pipelines. Live on Vercel."},
-    {"name": "The Daily Tasker", "url": "tick.html", "image": "/assets/img/quick.webp", "directURL": false, "desc": "AI-powered note sequencer and newspaper-themed notepad built with Next.js 14 and Gemini 2.5 Flash for DAG task priority scheduling. Live on Vercel."},
-    {"name": "Adaptive Notes", "url": "adaptive-notes.html", "image": "/assets/img/mlearn.webp", "directURL": false, "desc": "Intelligent document analysis and Q&A engine powered by Google Gemini, FAISS RAG, and OCR for dense academic and technical notes. Live on Streamlit."}
+    {"name": "Rural Care", "url": "rural-care.html", "image": "/assets/img/gramincare.jpg", "directURL": false, "desc": "Offline-first smart rural telehealth ecosystem connecting ASHA workers, patients, and doctors with AI triage and digital prescriptions. Source on GitHub."},
+    {"name": "Adaptive Notes", "url": "adaptive-notes.html", "image": "/assets/img/mlearn.webp", "directURL": false, "desc": "Intelligent document analysis and Q&A engine powered by Google Gemini, FAISS RAG, and OCR for dense academic and technical notes. Live on Streamlit ↗."},
+    {"name": "CV AI", "url": "cv-ai.html", "image": "/assets/img/cv-ai-demo.webp", "directURL": false, "desc": "Decoupled recruitment intelligence system with Gemini Pro PDF parsing, ChromaDB semantic vector search, and live candidate pipelines. Live on Vercel ↗."}
   ]},
   {"category": "Research & Systems", "items": [
     {"name": "AI Reliability", "url": "ai-reliability.html", "image": "/assets/img/tm2024.jpg", "directURL": false, "desc": "Studies on making AI systems dependable: ground-truth verification, hallucination guardrails, and deterministic testing."},
     {"name": "RGGEC Coursework", "url": "rggec-coursework.html", "image": "/assets/img/8bitjs.png", "directURL": false, "desc": "Academic foundations in algorithms, mathematical statistics, and machine learning at RGGEC (2025-29 batch)."}
   ]},
   {"category": "Code & Repositories", "items": [
-    {"name": "GitHub Repositories", "url": "https://github.com/anilsambyal547-source?tab=repositories", "image": "/assets/img/morisinc-net.png", "directURL": true, "desc": "Full archive of public repositories, open source contributions, and ongoing builds."}
+    {"name": "GitHub Repositories", "url": "https://github.com/anilsambyal547-source?tab=repositories", "image": "/assets/img/morisinc-net.png", "directURL": true, "desc": "Full archive of public repositories, open source contributions, and ongoing builds on GitHub."}
   ]},
   {"category": "HIDDEN", "items": [
     {"name": "about", "url": "about.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "about"},
     {"name": "cv", "url": "cv.html", "image": "", "directURL": false, "desc": "cv"},
     {"name": "publications", "url": "publications.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "writeups"},
     {"name": "writeups", "url": "writeups.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "writeups"},
+    {"name": "Anil Sambyal", "url": "about.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "Anil Sambyal"},
+    {"name": "Tick", "url": "tick.html", "image": "/assets/img/quick.webp", "directURL": false, "desc": "Tick"},
+    {"name": "tick", "url": "tick.html", "image": "/assets/img/quick.webp", "directURL": false, "desc": "Tick"},
+    {"name": "The Daily Tasker", "url": "tick.html", "image": "/assets/img/quick.webp", "directURL": false, "desc": "Tick"},
     {"name": "DIGIkavah", "url": "digikavah.html", "image": "/assets/img/safeguard-ai.jpg", "directURL": false, "desc": "DIGIkavah"},
     {"name": "DIGIkavach", "url": "digikavah.html", "image": "/assets/img/safeguard-ai.jpg", "directURL": false, "desc": "DIGIkavah"},
     {"name": "SafeGuard AI", "url": "digikavah.html", "image": "/assets/img/safeguard-ai.jpg", "directURL": false, "desc": "DIGIkavah"},
     {"name": "safeguard-ai", "url": "digikavah.html", "image": "/assets/img/safeguard-ai.jpg", "directURL": false, "desc": "DIGIkavah"},
-    {"name": "rural_care", "url": "rural-care.html", "image": "/assets/img/gramincare.jpg", "directURL": false, "desc": "GraminCare"},
     {"name": "Rural Care", "url": "rural-care.html", "image": "/assets/img/gramincare.jpg", "directURL": false, "desc": "Rural Care"},
-    {"name": "Tick", "url": "tick.html", "image": "/assets/img/quick.webp", "directURL": false, "desc": "Tick"},
-    {"name": "CV AI", "url": "cv-ai.html", "image": "/assets/img/cv-ai-demo.webp", "directURL": false, "desc": "CV AI"}
+    {"name": "rural_care", "url": "rural-care.html", "image": "/assets/img/gramincare.jpg", "directURL": false, "desc": "Rural Care"},
+    {"name": "rural-care", "url": "rural-care.html", "image": "/assets/img/gramincare.jpg", "directURL": false, "desc": "Rural Care"},
+    {"name": "GraminCare", "url": "rural-care.html", "image": "/assets/img/gramincare.jpg", "directURL": false, "desc": "Rural Care"},
+    {"name": "Adaptive Notes", "url": "adaptive-notes.html", "image": "/assets/img/mlearn.webp", "directURL": false, "desc": "Adaptive Notes"},
+    {"name": "adaptive-notes", "url": "adaptive-notes.html", "image": "/assets/img/mlearn.webp", "directURL": false, "desc": "Adaptive Notes"},
+    {"name": "adaptive-note-summarizer", "url": "adaptive-notes.html", "image": "/assets/img/mlearn.webp", "directURL": false, "desc": "Adaptive Notes"},
+    {"name": "CV AI", "url": "cv-ai.html", "image": "/assets/img/cv-ai-demo.webp", "directURL": false, "desc": "CV AI"},
+    {"name": "cv-ai", "url": "cv-ai.html", "image": "/assets/img/cv-ai-demo.webp", "directURL": false, "desc": "CV AI"},
+    {"name": "CV AI Platform", "url": "cv-ai.html", "image": "/assets/img/cv-ai-demo.webp", "directURL": false, "desc": "CV AI"}
   ]}
 ]
