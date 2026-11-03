@@ -1,79 +1,38 @@
 {
+  "DIGIkavah": {
+    "en": "Multimodal scam detection & zero-fetch URL forensics. 🏆 2nd Prize Winner at HPTU Hackathon 2026. 100% benchmark accuracy across 75 real-world attack vectors."
+  },
   "SafeGuard AI": {
-    "hi": "मल्टीमॉडल स्कैम डिटेक्शन और जीरो-फेच URL फोरेंसिक्स प्लेटफॉर्म। HPTU हैकथॉन 2026 में द्वितीय पुरस्कार विजेता। 75 अटैक नमूनों पर 100% सटीक जांच।",
-    "fr": "Détection multimodale des escroqueries et analyse criminalistique d'URL sans requête. 2e prix au Hackathon HPTU 2026. Précision de 100 % sur 75 vecteurs d'attaque.",
-    "de": "Multimodale Betrugserkennung und Zero-Fetch-URL-Forensik. 2. Preis beim HPTU-Hackathon 2026. 100% Benchmark-Genauigkeit bei 75 Angriffsvektoren.",
-    "ru": "Мультимодальное обнаружение мошенничества и криминалистика URL без сетевых запросов. 2-е место на HPTU Hackathon 2026. Точность 100% на 75 векторах атак.",
-    "jp": "マルチモーダル詐欺検出およびゼロフェッチURLフォレンジック基盤。HPTUハッカソン2026で準優勝。75件の攻撃検体で100%のベンチマーク精度を達成。"
+    "en": "Multimodal scam detection & zero-fetch URL forensics. 🏆 2nd Prize Winner at HPTU Hackathon 2026. 100% benchmark accuracy across 75 real-world attack vectors."
   },
   "GraminCare": {
-    "hi": "ग्रामीण क्लीनिकों के लिए ऑफलाइन-फर्स्ट स्मार्ट टेलीहेल्थ प्लेटफॉर्म, आशा कार्यकर्ताओं और डॉक्टरों को एआई ट्राइएज और डिजिटल पर्चे से जोड़ता है।",
-    "fr": "Écosystème de télésanté rurale hors ligne reliant agents ASHA, patients et médecins avec triage IA et ordonnances numériques.",
-    "de": "Offline-fähiges Telemedizin-Ökosystem für ländliche Kliniken, das ASHA-Kräfte, Patienten und Ärzte mit KI-Triage verbindet.",
-    "ru": "Офлайн-платформа сельской телемедицины, объединяющая медработников ASHA, пациентов и врачей с ИИ-сортировкой и цифровыми рецептами.",
-    "jp": "農村のASHAワーカー、患者、医師をAIトリアージと電子処方箋で結ぶオフラインファーストの遠隔医療プラットフォーム。"
+    "en": "Offline-first smart rural telehealth ecosystem connecting ASHA workers, patients, and doctors with AI triage and digital prescriptions. Video demo available."
   },
   "Rural Care": {
-    "hi": "ग्रामीण क्लीनिकों के लिए ऑफलाइन-फर्स्ट स्मार्ट टेलीहेल्थ प्लेटफॉर्म, आशा कार्यकर्ताओं और डॉक्टरों को एआई ट्राइएज और डिजिटल पर्चे से जोड़ता है।",
-    "fr": "Plateforme d'accessibilité aux soins de santé conçue pour les cliniques rurales, le tri médical et les agents de santé communautaires.",
-    "de": "Plattform für den Zugang zu medizinischer Versorgung, entwickelt für ländliche Kliniken, Triage-Unterstützung und Gesundheitshelfer.",
-    "ru": "Платформа для обеспечения доступа к здравоохранению в сельских районах, поддержка сортировки пациентов и общественных медработников.",
-    "jp": "農村クリニック、トリアージ支援、地域医療従事者向けに設計されたヘルスケアアクセシビリティプラットフォーム。"
+    "en": "Offline-first smart rural telehealth ecosystem connecting ASHA workers, patients, and doctors with AI triage and digital prescriptions. Video demo available."
   },
   "CV AI Platform": {
-    "hi": "जेमिनी प्रो और क्रोमा-डीबी सिमेंटिक वेक्टर सर्च से युक्त रिक्रूटमेंट इंटेलिजेंस सिस्टम। रेज़्यूमे पार्सिंग और लाइव उम्मीदवार पाइपलाइन।",
-    "fr": "Système d'intelligence de recrutement avec parsing PDF Gemini Pro, recherche vectorielle ChromaDB et tableau de bord interactif.",
-    "de": "Recruiting-Intelligence-System mit Gemini Pro PDF-Analyse, semantischer ChromaDB-Vektorsuche und interaktiver Kandidaten-Pipeline.",
-    "ru": "Система интеллектуального рекрутинга с парсингом резюме на Gemini Pro, векторным поиском ChromaDB и интерактивной канбан-доской.",
-    "jp": "Gemini Proによる履歴書解析、ChromaDBセマンティックベクトル検索、対話型選考パイプラインを備えた採用インテリジェンス基盤。"
+    "en": "Decoupled recruitment intelligence system with Gemini Pro PDF parsing, ChromaDB semantic vector search, and live candidate pipelines. Live on Vercel."
   },
   "CV AI": {
-    "hi": "जेमिनी प्रो और क्रोमा-डीबी सिमेंटिक वेक्टर सर्च से युक्त रिक्रूटमेंट इंटेलिजेंस सिस्टम। रेज़्यूमे पार्सिंग और लाइव उम्मीदवार पाइपलाइन।",
-    "fr": "Plateforme d'intelligence documentaire et d'analyse automatisée de CV avec backend Python et frontend TypeScript.",
-    "de": "Vollständige Dokumentenintelligenz- und CV-Analyseplattform mit Python-Backend und TypeScript-Frontend.",
-    "ru": "Полноценная платформа для интеллектуального анализа документов и резюме с Python-бэкендом и TypeScript-фронтендом.",
-    "jp": "PythonバックエンドとTypeScriptフロントエンドを備えた文書インテリジェンスおよび自動CV解析プラットフォーム。"
+    "en": "Decoupled recruitment intelligence system with Gemini Pro PDF parsing, ChromaDB semantic vector search, and live candidate pipelines. Live on Vercel."
   },
   "The Daily Tasker": {
-    "hi": "नेक्स्ट-जेएस 14 और जेमिनी 2.5 फ्लैश द्वारा संचालित विंटेज समाचार-पत्र शैली का एआई टास्क सीक्वेंसर और उत्पादकता इंजन।",
-    "fr": "Planificateur de tâches IA au style éditorial vintage conçu avec Next.js 14, React Server Actions et Gemini 2.5 Flash.",
-    "de": "KI-gestützter Aufgabenplaner im Vintage-Zeitungsstil, entwickelt mit Next.js 14, React Server Actions und Gemini 2.5 Flash.",
-    "ru": "ИИ-планировщик задач в винтажном газетном стиле на базе Next.js 14, React Server Actions и Gemini 2.5 Flash.",
-    "jp": "Next.js 14、React Server Actions、Gemini 2.5 Flashで構築されたビンテージ新聞風のAIタスクシーケンサー。"
+    "en": "AI-powered note sequencer and newspaper-themed notepad built with Next.js 14 and Gemini 2.5 Flash for DAG task priority scheduling. Live on Vercel."
   },
   "Tick": {
-    "hi": "नेक्स्ट-जेएस 14 और जेमिनी 2.5 फ्लैश द्वारा संचालित विंटेज समाचार-पत्र शैली का एआई टास्क सीक्वेंसर और उत्पादकता इंजन।",
-    "fr": "Outil de séquençage déterministe des tâches pour développeurs, basé sur un graphe acyclique orienté (DAG).",
-    "de": "Deterministisches Aufgaben-Sequenzierungswerkzeug für Entwickler auf Basis eines gerichteten azyklischen Graphen (DAG).",
-    "ru": "Детерминированный инструмент упорядочивания задач для разработчиков на основе направленного ациклического графа (DAG).",
-    "jp": "有向非巡回グラフ（DAG）を使用した開発者向け決定論的タスクシーケンサー。"
+    "en": "AI-powered note sequencer and newspaper-themed notepad built with Next.js 14 and Gemini 2.5 Flash for DAG task priority scheduling. Live on Vercel."
   },
   "Adaptive Notes": {
-    "hi": "गूगल जेमिनी, फेइस (FAISS) आरएजी और ओसीआर द्वारा संचालित बुद्धिमान दस्तावेज विश्लेषण व प्रश्न-उत्तर इंजन।",
-    "fr": "Outil d'analyse de documents intelligent et de questions-réponses alimenté par Google Gemini, FAISS RAG et OCR.",
-    "de": "Intelligente Dokumentenanalyse und Frage-Antwort-Engine mit Google Gemini, FAISS RAG und OCR.",
-    "ru": "Интеллектуальный анализ документов и Q&A на базе Google Gemini, FAISS RAG и оптического распознавания (OCR).",
-    "jp": "Google Gemini、FAISS RAG、OCRを搭載したドキュメント分析および対話型Q&Aエンジン。"
+    "en": "Intelligent document analysis and Q&A engine powered by Google Gemini, FAISS RAG, and OCR for dense academic and technical notes. Live on Streamlit."
   },
   "AI Reliability": {
-    "hi": "विश्वसनीय एआई सिस्टम पर शोध: मतिभ्रम (हलुसिनेशन) रोकथाम, साक्ष्य सत्यापन, और संरचित परीक्षण।",
-    "fr": "Recherche sur les systèmes d'IA fiables : garde-fous contre les hallucinations, pipelines RAG avec attribution vérifiée, et tests adversariaux.",
-    "de": "Forschung zur KI-Zuverlässigkeit: Absicherungen gegen Halluzinationen, RAG-Pipelines mit Quellennachweis, adversarielle Benchmarks.",
-    "ru": "Исследование надёжности ИИ: защита от галлюцинаций, RAG-конвейеры с проверкой источников, состязательное тестирование.",
-    "jp": "AI信頼性研究：幻覚防止ガードレール、ソース検証付きRAGパイプライン、敵対的ベンチマーク。"
+    "en": "Studies on making AI systems dependable: ground-truth verification, hallucination guardrails, and deterministic testing."
   },
   "RGGEC Coursework": {
-    "hi": "आरजीजीईसी (2025-29 सत्र) में एल्गोरिदम, गणितीय सांख्यिकी और मशीन लर्निंग की शैक्षणिक नींव।",
-    "fr": "Fondations académiques en algorithmes, statistiques mathématiques et apprentissage automatique au RGGEC (2025–2029).",
-    "de": "Akademische Grundlagen in Algorithmen, mathematischer Statistik und maschinellem Lernen am RGGEC (2025–2029).",
-    "ru": "Академические основы алгоритмов, математической статистики и машинного обучения в RGGEC (2025–2029).",
-    "jp": "RGGEC（2025〜2029年）でのアルゴリズム、数理統計、機械学習の学術基礎。"
+    "en": "Academic foundations in algorithms, mathematical statistics, and machine learning at RGGEC (2025-29 batch)."
   },
   "GitHub Repositories": {
-    "hi": "सार्वजनिक रिपॉजिटरी, ओपन-सोर्स योगदान और चालू परियोजनाओं का संपूर्ण संग्रह।",
-    "fr": "Archive complète des dépôts publics, contributions open-source et projets en cours.",
-    "de": "Vollständiges Archiv öffentlicher Repositories, Open-Source-Beiträge und laufende Projekte.",
-    "ru": "Полный архив публичных репозиториев, вкладов в открытый код и текущих разработок.",
-    "jp": "公開リポジトリ、オープンソース貢献、進行中のプロジェクトの完全アーカイブ。"
+    "en": "Full archive of public repositories, open source contributions, and ongoing builds."
   }
 }

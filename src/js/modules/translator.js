@@ -11,18 +11,6 @@ function getLanguageCookie() {
 }
 
 function getCurrentLanguage() {
-    const params = new URLSearchParams(window.location.search);
-    let lang = params.get('lang');
-    if (lang) {
-        setLanguageCookie(lang);
-        // Remove the lang parameter from URL without reloading
-        params.delete('lang');
-        const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '') + window.location.hash;
-        window.history.replaceState({}, '', newUrl);
-        return lang;
-    }
-    lang = getLanguageCookie();
-    if (lang) return lang;
     return 'en';
 }
 

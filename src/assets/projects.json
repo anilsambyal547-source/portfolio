@@ -1,6 +1,6 @@
 [
   {"category": "Machine Learning & AI", "items": [
-    {"name": "SafeGuard AI", "url": "safeguard-ai.html", "image": "/assets/img/safeguard-ai.jpg", "directURL": false, "desc": "Multimodal scam detection & zero-fetch URL forensics. 🏆 2nd Prize Winner at HPTU Hackathon 2026. 100% benchmark accuracy across 75 real-world attack vectors."},
+    {"name": "DIGIkavah", "url": "digikavah.html", "image": "/assets/img/safeguard-ai.jpg", "directURL": false, "desc": "Multimodal scam detection & zero-fetch URL forensics. 🏆 2nd Prize Winner at HPTU Hackathon 2026. 100% benchmark accuracy across 75 real-world attack vectors."},
     {"name": "GraminCare", "url": "rural-care.html", "image": "/assets/img/gramincare.jpg", "directURL": false, "desc": "Offline-first smart rural telehealth ecosystem connecting ASHA workers, patients, and doctors with AI triage and digital prescriptions. Video demo available."},
     {"name": "CV AI Platform", "url": "cv-ai.html", "image": "/assets/img/cv-ai-demo.webp", "directURL": false, "desc": "Decoupled recruitment intelligence system with Gemini Pro PDF parsing, ChromaDB semantic vector search, and live candidate pipelines. Live on Vercel."},
     {"name": "The Daily Tasker", "url": "tick.html", "image": "/assets/img/quick.webp", "directURL": false, "desc": "AI-powered note sequencer and newspaper-themed notepad built with Next.js 14 and Gemini 2.5 Flash for DAG task priority scheduling. Live on Vercel."},
@@ -18,6 +18,10 @@
     {"name": "cv", "url": "cv.html", "image": "", "directURL": false, "desc": "cv"},
     {"name": "publications", "url": "publications.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "writeups"},
     {"name": "writeups", "url": "writeups.html", "image": "/assets/img/5149734.jpg", "directURL": false, "desc": "writeups"},
+    {"name": "DIGIkavah", "url": "digikavah.html", "image": "/assets/img/safeguard-ai.jpg", "directURL": false, "desc": "DIGIkavah"},
+    {"name": "DIGIkavach", "url": "digikavah.html", "image": "/assets/img/safeguard-ai.jpg", "directURL": false, "desc": "DIGIkavah"},
+    {"name": "SafeGuard AI", "url": "digikavah.html", "image": "/assets/img/safeguard-ai.jpg", "directURL": false, "desc": "DIGIkavah"},
+    {"name": "safeguard-ai", "url": "digikavah.html", "image": "/assets/img/safeguard-ai.jpg", "directURL": false, "desc": "DIGIkavah"},
     {"name": "rural_care", "url": "rural-care.html", "image": "/assets/img/gramincare.jpg", "directURL": false, "desc": "GraminCare"},
     {"name": "Rural Care", "url": "rural-care.html", "image": "/assets/img/gramincare.jpg", "directURL": false, "desc": "Rural Care"},
     {"name": "Tick", "url": "tick.html", "image": "/assets/img/quick.webp", "directURL": false, "desc": "Tick"},
